@@ -187,7 +187,4 @@ Folio is under active development. Features and compatibility are still
 being refined, and the application is being tested across different
 browsers and devices.
 
-## License
 
-No open-source licence has been assigned yet. All rights are reserved
-unless a licence is added to this repository.
