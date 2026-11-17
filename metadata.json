@@ -1,0 +1,6 @@
+{
+  "name": "Folio",
+  "description": "A personal dark literary digital library for importing, organizing, and tracking EPUB books locally with IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
